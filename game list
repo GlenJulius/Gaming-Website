@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GameZone - Games</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header>
+    <h1>GameZone</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="games.html">Games</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="games">
+    <h2>Top Games</h2>
+    <div class="game-container">
+      <div class="game-card">
+        <img src=""alt="Game 2">" alt="Game 1">
+        <h3>Cyber Arena</h3>
+        <p>Futuristic multiplayer battles.</p>
+      </div>
+      <div class="game-card">
+        <img src="game2.jpg" alt="Game 2">
+        <h3>Space Odyssey</h3>
+        <p>Explore galaxies in a thrilling journey.</p>
+      </div>
+      <div class="game-card">
+        <img src="game3.jpg" alt="Game 3">
+        <h3>Speed Racer</h3>
+        <p>High-speed racing across continents.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 GameZone. All rights reserved.</p>
+  </footer>
+</body>
+</html>

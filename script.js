@@ -1,7 +1,7 @@
 // Select all game cards
 const gameCards = document.querySelectorAll('.game-card');
 
-// Add hover effect
+
 gameCards.forEach(card => {
     card.addEventListener('mouseenter', () => {
         card.style.transform = 'scale(1.05)';

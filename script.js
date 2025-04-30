@@ -12,7 +12,7 @@ gameCards.forEach(card => {
     });
 });
 
-// Add click event to display more details
+
 gameCards.forEach(card => {
     card.addEventListener('click', () => {
         const gameTitle = card.querySelector('h3').textContent;

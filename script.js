@@ -1,4 +1,4 @@
-// Select all game cards
+
 const gameCards = document.querySelectorAll('.game-card');
 
 
